@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENMWlaSz69pGyjiqcCRvHNGhZGjHNWvnJQ5uSZHXfP85Q47P2AySZX0knbCTbR8naW/mhuC9MzZFeBKiWzscgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danyl\\Documents\\RiderProjects\\Lab01\\Lab01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danyl\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
